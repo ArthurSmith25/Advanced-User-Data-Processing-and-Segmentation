@@ -41,4 +41,4 @@ El objetivo principal fue desarrollar un sistema robusto y escalable para entend
 - Python 3.x
 - Jupyter Notebook (para el desarrollo interactivo y la documentación)
 
-
+Id_project: 02
