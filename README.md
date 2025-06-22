@@ -41,4 +41,10 @@ El objetivo principal fue desarrollar un sistema robusto y escalable para entend
 - Python 3.x
 - Jupyter Notebook (para el desarrollo interactivo y la documentación)
 
+### 📂Resumen ejecutivo
+
+Implementación de funciones personalizadas en Python para estructurar, limpiar y analizar listas anidadas de usuarios, extrayendo métricas clave como gasto total, segmentación por edad y categoría, y detección de clientes leales según criterios del negocio.
+
+Developed custom Python functions to clean, structure, and analyze nested user data, extracting key metrics such as total spending, age-based segmentation, and loyal customer identification based on business rules.
+
 Id_project: 02
