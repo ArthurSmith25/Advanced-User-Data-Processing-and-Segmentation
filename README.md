@@ -1,6 +1,6 @@
 
 
-## 🚀 Proyecto 2: Extracción y Análisis Avanzado del Comportamiento del Usuario
+## 🚀 Proyecto: Extracción y Análisis Avanzado del Comportamiento del Usuario
 
 ## 🎯 Visión General del Proyecto
 Este proyecto profundiza en el análisis del comportamiento de compra de clientes, transformando datos brutos y anidados en insights estratégicos y accionables. Basándose en la fase de limpieza de datos del "Data Cleaning & Structuring of User Profiles", esta etapa se enfoca en la extracción de información valiosa y la segmentación avanzada de clientes para apoyar decisiones de negocio informadas en el sector retail.
