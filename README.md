@@ -1,4 +1,4 @@
-Okay, ¡aquí tienes el contenido del README.md listo para copiar y pegar directamente en tu repositorio de GitHub!
+
 
 ## 🚀 Proyecto 2: Extracción y Análisis Avanzado del Comportamiento del Usuario
 
